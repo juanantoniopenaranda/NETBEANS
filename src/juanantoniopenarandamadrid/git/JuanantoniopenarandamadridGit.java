@@ -5,7 +5,7 @@
 package juanantoniopenarandamadrid.git;
 
 /**
- *CAMBIO EN EL CODIGO 
+ *CAMBIO PARA CONFLICTO DE VERSIONES 
  * 
  * @author JUANANTONIO
  */
